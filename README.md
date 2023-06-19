@@ -18,4 +18,5 @@ pelo conteudo do link e dos textos.
 A tela de jogabilidade, seguindo a mesma logica que as demais, porém ela possui um link,
 o link redireciona o usuario para uma Game Play, gravada no YouTube.  
 
-
+Link do vídeo sobre o aplicativo:
+https://youtu.be/QC3OjsK3aV0
