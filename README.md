@@ -16,7 +16,4 @@ site de onde foi retirado a imagem, além disso, um botão de referência.
 A tela de graficos segue a mesma logica de layout que a tela de design, se diferenciando
 pelo conteudo do link e dos textos.
 A tela de jogabilidade, seguindo a mesma logica que as demais, porém ela possui um link,
-o link redireciona o usuario para uma Game Play, gravada no YouTube.  
-
-Link do vídeo sobre o aplicativo:
-https://youtu.be/QC3OjsK3aV0
+o link redireciona o usuario para uma Game Play, gravada no youtube
