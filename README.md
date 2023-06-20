@@ -17,3 +17,4 @@ A tela de graficos segue a mesma logica de layout que a tela de design, se difer
 pelo conteudo do link e dos textos.
 A tela de jogabilidade, seguindo a mesma logica que as demais, porém ela possui um link,
 o link redireciona o usuario para uma Game Play, gravada no youtube
+    link apresentação aplicativo http://youtu.be/92XoQFv_WPA
